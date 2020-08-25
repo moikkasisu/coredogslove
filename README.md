@@ -6,6 +6,7 @@ http://coredogs.com/lesson/exercises-web-page-text.html
 ## Exercises: A Web page with text
 
 Recommended:
+
 Exercise1: Product description
 
 Exercise2: Cats and dogs
@@ -15,6 +16,7 @@ Exercise3: Metaphor
 Exercise4: Bar jokes
 
 Optional:
+
 Exercise5: Studying advice
 
 Exercise6: Friendly formulas
