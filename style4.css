@@ -1,0 +1,18 @@
+* {
+  font-family:sans-serif
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: rgb(232, 253, 253);
+}
+
+.second {
+  width:500px;
+}
+
+.warnings {
+  color: red
+}
