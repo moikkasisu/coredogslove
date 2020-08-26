@@ -1,6 +1,6 @@
 # coredogslove 
 
-#### CoreDogs web tech learning, I did 4 first.
+#### CoreDogs web tech learning, I did the recommended first, the rest are to be done.
 http://coredogs.com/lesson/exercises-web-page-text.html
 
 ## Exercises: A Web page with text
