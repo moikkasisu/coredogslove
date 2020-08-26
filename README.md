@@ -23,11 +23,11 @@ Exercise6: Friendly formulas
 
 Exercise7: Text shadow
 
-Exercise8: Backwards text
+Exercise8: Backwards text.
 Type the text into your HTML in the normal way! Copy-and-paste this into your solution:
 Hey!
 This is reversed!
 Flip it around, willya, buddy?
 
-Exercise9: Ticking noise
+Exercise9: Ticking noise.
 Make a page showing the YouTube video, “Potter Puppet Pals: The Mysterious Ticking Noise.” 
