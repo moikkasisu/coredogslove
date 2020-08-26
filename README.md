@@ -1,6 +1,6 @@
 # coredogslove 
 
-#### CoreDogs web tech learning, all pages are created without checking solutions
+#### CoreDogs web tech learning, I did 4 first.
 http://coredogs.com/lesson/exercises-web-page-text.html
 
 ## Exercises: A Web page with text
