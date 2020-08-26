@@ -1,18 +1,32 @@
-* {
-  font-family:sans-serif
+body {
+  font-family:sans-serif;
+  color:olivedrab  
 }
 
 .container{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  background-color: rgb(232, 253, 253);
+  background-color: rgb(238, 231, 247);
+  width:530px;
+  padding: 3px
 }
+
+.metaphor {
+  text-align: left;
+  background-color: lightslategrey;
+  color: white;
+  padding: 3px;
+  margin:3px
+ }
 
 .second {
   width:500px;
+  align-self: center;
+  text-align: justify;
 }
 
-.warnings {
-  color: red
+.tab{
+margin-left: 40px; 
+color: black  
 }

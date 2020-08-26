@@ -6,13 +6,18 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  background-color: rgb(232, 253, 253);
+  background-color: rgb(252, 251, 248);
 }
 
 .second {
   width:500px;
+  align-self: center;
+  text-align: justify;
 }
 
-.warnings {
-  color: red
+footer {
+  color: lightgreen;
+  font-style: italic;
+  font-size: small;
+  text-align: left;
 }
